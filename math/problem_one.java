@@ -1,4 +1,4 @@
-package essay_1_math;
+package math;
 
 import java.util.Scanner;
 import java.lang.Math;

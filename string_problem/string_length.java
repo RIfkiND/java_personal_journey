@@ -1,7 +1,8 @@
-package alone_string;
+package string_problem;
 
 import java.util.Scanner;
-public class problem_one {
+
+public class string_length {
     public static void main(String[] args) {
 
         //length of string
